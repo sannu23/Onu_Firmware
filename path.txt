@@ -41,7 +41,8 @@ install_bsp/Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo/boa.conf
  
  
  
- /userfs/CountrySetting/IND/     /userfs/CountrySetting/IND_SV/
+/userfs/CountrySetting/IND/     /userfs/CountrySetting/IND_SV/
+
 /userfs/CountrySetting/IND_SK/
 
 
