@@ -1,0 +1,19 @@
+table, tr, td, th{
+    border:0px !important;
+    }
+    
+    dt a{
+        color: #584848;
+    font-weight:300;
+    font-size:18px;
+    }
+    .tabHelpdata{
+        font-weight:bold;
+        color: #0b5ed8 !important;
+        font-size: 30px;
+       margin: 0px;
+    background:#fff !important;
+    }
+    .heading_grey{
+    margin-bottom:20px;
+    }

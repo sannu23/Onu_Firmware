@@ -1,0 +1,65 @@
+
+
+cd /home/sannu/SYRO/tclinux_release_2023
+Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo/
+/Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo/UNION_EN7528_LE_7592_7613_MAP_R2_demo.profile
+
+
+
+*****dial tone change  
+
+----------------------SDK_path----------------------------------------------------------------------tclinux_path----------------------------
+
+sdk path : /release_app/en7528/filesystem/userfs/CountrySetting/IND/                              userfs/CountrySetting/IND/toneSetting.txt
+
+release_app/en7528/filesystem/userfs/CountrySetting
+install_bsp/fs/userfs
+
+*******GUI change
+apps/private/webPage/Router/e8c_ml
+
+******* file upload 
+install_bsp/Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo/boa.conf 
+
+/home/sannu/SYRO/7528_CT_SDK_mesh_2023/tclinux_phoenix/Project/profile/CT
+/home/sannu/SYRO/tclinux_release_2023/Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo
+
+/home/sannu/SYRO/tclinux_release_2023/apps/filesystem_sdk/userfs/
+/home/sannu/SYRO/tclinux_release_2023/install_bsp/Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo/
+
+1. output image 
+/home/sannu/SYRO/tclinux_release_2023/Project/images
+/Project/images
+
+
+# SDK_path 
+
+1. profile changes  : Project/profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo
+2. ssh   : apps/public
+3. dialar tone changes 
+4. web page  : apps/private/webPage/Router/e8c_ml
+ 
+ 
+ 
+ /userfs/CountrySetting/IND/     /userfs/CountrySetting/IND_SV/
+/userfs/CountrySetting/IND_SK/
+
+
+# profile/CT/UNION_EN7528_LE_7592_7613_MAP_R2_demo
+
+
+busybox.config*
+kernel_3_18.config*
+
+boa.conf*
+deviceParaStatic.conf*
+devInf.conf*
+led.conf*
+mi.conf*
+
+romfile.cfg*
+
+UNION_EN7528_LE_7592_7613_MAP_R2_demo.profile*
+
+
+# SDK path 
